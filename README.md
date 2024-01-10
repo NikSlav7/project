@@ -1,6 +1,23 @@
 
-# Lõpuprojekt
+# Lõpuprojekt G1
 
-Oliver Pällo, Illimar Luukas Õim, Nikita Slavinski, Karl Hansen Puri
+Raspberry pi4 + ultrasonic sensor
 
-raspberry pi4
+Automaatne valgustussüsteem siseruumides.
+
+
+
+## Demo
+
+https://github.com/NikSlav7/project/blob/main/demo.py
+
+
+
+## Authors
+
+- [@oliverpallo](https://www.github.com/oliverpallo)
+- [@karldoescode](https://www.github.com/karldoescode)
+- [@NikSlav7](https://www.github.com/NikSlav7)
+- [@illi]
+
+
