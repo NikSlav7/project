@@ -1,7 +1,9 @@
 
-# Lõpuproject
+# Lõpuprojekt
 
-Parim sensor
+Oliver Pällo, Illimar Luukas Õim, Nikita Slavinski, Karl Hansen Puri
+
+raspberry pi4
 
 
 
